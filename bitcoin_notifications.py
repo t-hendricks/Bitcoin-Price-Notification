@@ -14,7 +14,7 @@ params = {
 
 headers = {
   'Accepts': 'application/json',
-  'X-CMC_PRO_API_KEY': 'Coinmarket API key goes here,
+  'X-CMC_PRO_API_KEY': 'Coinmarket API key goes here'
 }
 
 # Get the latest Bitcoin price in USD currency from the Coinmarket API
